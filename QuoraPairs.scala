@@ -34,7 +34,7 @@ import org.apache.spark.ml.regression.{LinearRegression}
  * The objective is to follow the initial process outlined by Anokas' kernel at
  * https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/notebook
  * 
- * Sam Hughel
+ * Sai Srinath Josyula
  * 10/18/2017
  * 
  * We will take two questions, compare strings for possible predictor features.
